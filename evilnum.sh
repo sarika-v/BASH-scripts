@@ -1,4 +1,5 @@
-#this script takes a number N as input and finds all the EVIL numbers between 1 and N
+#this script takes a number N as input and finds all the EVIL numbers between 1 and N and writes them to a file evil.txt
+#EVIL numbers are numbers whose binary expression have even number of 1's in them 
 
 cat /dev/null>evil.txt
 
